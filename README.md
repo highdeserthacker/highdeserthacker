@@ -1,4 +1,4 @@
-- I enjoy maker projects of all kinds, including software, microcontrollers, ESP8266, electronics, welding, machining, MCAD, 3D Printing, Home Automation (Home Assistant). 
+- I enjoy maker projects of all kinds, including software, IoT microcontrollers (ESP8266, etc.), electronics, welding, machining, MCAD, 3D Printing, and Home Automation (Home Assistant). 
 - This is my repository for sharing projects.
 - 📫 Find me at https://blog.outpost4.org
 
